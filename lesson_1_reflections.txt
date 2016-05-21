@@ -1,0 +1,19 @@
+List the line was modified. And listed the corresponding contexts and highlight the different words.
+
+
+
+Question: Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+Git is mainly for version control of proejcts. For big project, it is easy to break into pieces.
+Google Doss is cheifly for documents. Each document may have indenpendent content. 
+
+
+How might using version control make you more confident to make changes that could break something?
+
+1. Commit the current workfiles before make changes.
+2. Start to make changes and see what happens.
+3. If something work not properly, the revert to the previous commit.
+
+
+Now that you have your workspace set up, what do you want to try using Git for?
+I would like to using Git to do version control for me.
